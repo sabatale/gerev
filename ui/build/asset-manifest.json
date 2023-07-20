@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.378ac5f6.css",
+    "main.js": "/static/js/main.a0e83fc3.js",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/SourceSansPro-SemiBold.ttf": "/static/media/SourceSansPro-SemiBold.f2fa8f369db189665539.ttf",
+    "static/media/SourceSansPro-Black.ttf": "/static/media/SourceSansPro-Black.3633cc84b6efe1f1515e.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/copy-this.png": "/static/media/copy-this.51c597fa9f10beb9cca8.png",
+    "static/media/left-pane-instructions.png": "/static/media/left-pane-instructions.fd8b97322119bf024986.png",
+    "static/media/discord.png": "/static/media/discord.667df059ddf407979d68.png",
+    "static/media/calendar.svg": "/static/media/calendar.7a056bdf85cdad4caa013c5e5be8c3cc.svg",
+    "static/media/user.webp": "/static/media/user.3fa94f1ad695e4e1ebc3.webp",
+    "static/media/pptx.svg": "/static/media/pptx.14a039b71cd4220ae3d8d558253c6156.svg",
+    "static/media/docx.svg": "/static/media/docx.9452243cbf99a563430098144f0d749f.svg",
+    "static/media/google-doc.svg": "/static/media/google-doc.d2dba7692ec3d190c30876725253c16c.svg",
+    "static/media/pur-dir.svg": "/static/media/pur-dir.26bfa8b121289f30dadc5a2d11e9e521.svg",
+    "static/media/pdf.svg": "/static/media/pdf.9e2719806eeb189a6bb5931c0253d223.svg",
+    "index.html": "/index.html",
+    "static/media/warning.svg": "/static/media/warning.3105f054aed48d6d9154c0ec45df3d88.svg",
+    "static/media/enter.svg": "/static/media/enter.495ea0c1433ff17dde3fb7667465ab69.svg",
+    "main.378ac5f6.css.map": "/static/css/main.378ac5f6.css.map",
+    "main.a0e83fc3.js.map": "/static/js/main.a0e83fc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378ac5f6.css",
+    "static/js/main.a0e83fc3.js"
+  ]
+}
