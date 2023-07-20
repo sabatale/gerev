@@ -15,7 +15,17 @@ RUN python3 /tmp/models.py
 
 COPY ./app /app
 
-COPY ./ui/build /ui
+# build UI
+WORKDIR ./ui
+
+RUN npm install
+
+RUN npm run build
+
+COPY ./build /ui
+
+# continue
+WORKDIR /
 
 COPY ./run.sh /app/run.sh
 
